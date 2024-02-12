@@ -1,0 +1,22 @@
+# terraform
+*.tf text=auto eol=lf
+*.tfvars text=auto eol=lf
+
+# ansible
+*.yaml text=auto eol=lf
+*.yml text=auto eol=lf
+
+# documentation
+*.md text=auto eol=lf
+
+# dot files
+*.gitattributes text=auto eol=lf
+.gitignore text=auto eol=lf
+.editorconfig text=auto eol=lf
+.terraform-version text=auto eol=lf
+
+# common
+*.json text=auto eol=lf
+*.txt text=auto eol=lf
+*.ini text=auto eol=lf
+*.hcl text=auto eol=lf
